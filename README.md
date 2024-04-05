@@ -1,1 +1,1 @@
-# C++ Learning Journey for Software Engineering 🔥
+# Learning Journey for Software Engineering 🔥
