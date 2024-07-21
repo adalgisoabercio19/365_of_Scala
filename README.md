@@ -1,8 +1,8 @@
 ### fromthegates: from compilers to embedded
 
-Inspired by [From the Transistor](https://github.com/geohot/fromthetransistor)
-
-a lot of tutorials are hard to follow, and it's hard to understand [software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) from first principles
+> Inspired by [From the Transistor](https://github.com/geohot/fromthetransistor)
+>
+> a lot of tutorials are hard to follow, and it's hard to understand [software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) from first principles
 
 ### 10000 hours Syllabus
 
