@@ -1,5 +1,6 @@
-site_name: fromthegates
-site_url: https://sapategu.github.io/fromthegates/
+site_name: compilers
+site_url: https://buteops.github.io/compilers/
+docs_dir: __docs__
 
 nav:
     - Home: index.md

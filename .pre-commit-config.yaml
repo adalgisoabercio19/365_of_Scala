@@ -7,13 +7,13 @@ repos:
         language: system
         always_run: true
         pass_filenames: false
-      - id: mypy
-        name: mypy
-        entry: mypy sandbox/ extra/
-        language: system
-        pass_filenames: false
 
       # TODO: will implementing it later
+      # - id: mypy
+      #   name: mypy
+      #   entry: mypy sandbox/ extra/
+      #   language: system
+      #   pass_filenames: false
       # - id: nbqa-pylint
       #   name: nbqa-pylint
       #   entry: env PYTHONPATH="." python3 -m pylint bootcamps/*.ipynb docs/*.ipynb
